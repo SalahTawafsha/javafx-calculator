@@ -1,0 +1,65 @@
+#blue-button {
+    -fx-color: skyblue;
+    -fx-min-width: 40;
+    -fx-min-height: 48;
+    -fx-background-radius: 10
+}
+
+#blue-button:hover {
+    -fx-color: lightblue
+}
+
+#equal-button {
+    -fx-color: skyblue;
+    -fx-min-width: 300;
+    -fx-min-height: 42;
+    -fx-background-radius: 10
+}
+
+#equal-button:hover {
+    -fx-color: lightblue
+}
+
+#black-button {
+    -fx-color: black;
+    -fx-min-width: 40;
+    -fx-min-height: 48;
+    -fx-background-radius: 10
+}
+
+#black-button:hover {
+    -fx-color: rgb(32, 32, 32)
+}
+
+#red-button {
+    -fx-color: INDIANRED;
+    -fx-min-width: 40;
+    -fx-min-height: 48;
+    -fx-background-radius: 10
+}
+
+#red-button:hover {
+    -fx-color: LIGHTCORAL
+}
+
+#white-button {
+    -fx-color: white;
+    -fx-min-width: 40;
+    -fx-min-height: 48;
+    -fx-background-radius: 10
+}
+
+#white-button:hover {
+    -fx-color: lightgray
+}
+
+#gray-button {
+    -fx-color: rgb(128, 128, 128);
+    -fx-min-width: 40;
+    -fx-min-height: 48;
+    -fx-background-radius: 10
+}
+
+#gray-button:hover {
+    -fx-color: darkgray
+}
